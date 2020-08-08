@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_TKB"
+        android:icon="@drawable/ic_access_time_black_24dp"
+        android:title="TKB" />
+    <item
+        android:id="@+id/nav_LichThi"
+        android:icon="@drawable/ic_bookmark_border_black_24dp"
+        android:title="Lịch thi" />
+    <item
+        android:id="@+id/nav_Diem"
+        android:icon="@drawable/ic_all_out_black_24dp"
+        android:title="Điểm" />
+    <item
+        android:id="@+id/nav_CaNhan"
+        android:icon="@drawable/ic_perm_identity_black_24dp"
+        android:title="Cá nhân" />
+</menu>

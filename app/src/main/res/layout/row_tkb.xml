@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    >
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_book_black_24dp"/>
+        <TextView
+            android:id="@+id/txtTenmonhoc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Lý luận nhà nước và pháp luật"
+            android:textSize="18sp"
+            android:textColor="#333333"
+            android:textStyle="bold"/>
+    </LinearLayout>
+    <TextView
+        android:id="@+id/txtNgayhoc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tiết 1->3, Phòng A.401"
+        android:textSize="18sp"
+        android:textColor="#333333"/>
+
+
+</LinearLayout>

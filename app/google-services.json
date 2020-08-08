@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315941766130",
+    "firebase_url": "https://appuel-f1c28.firebaseio.com",
+    "project_id": "appuel-f1c28",
+    "storage_bucket": "appuel-f1c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315941766130:android:e60b182c460759e00ae16b",
+        "android_client_info": {
+          "package_name": "com.example.appuel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315941766130-453jaa08fb013lmnqacnj88u9vf9c2vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appuel",
+            "certificate_hash": "aa37a8b31732176db1004cec62b3ab10a0fba58a"
+          }
+        },
+        {
+          "client_id": "315941766130-gr6qi19r8jsadv6tcpp8nh2uivv4en3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUCC-9NVFfzywcW2EReanmPIP3su5dKT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315941766130-gr6qi19r8jsadv6tcpp8nh2uivv4en3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
